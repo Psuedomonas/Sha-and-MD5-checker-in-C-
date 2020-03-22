@@ -1,0 +1,14 @@
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\bin\Debug\WPFwithCsharp.exe.config
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\bin\Debug\WPFwithCsharp.exe
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\bin\Debug\WPFwithCsharp.pdb
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp.csprojAssemblyReference.cache
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\MainWindow.g.cs
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\App.g.cs
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp_MarkupCompile.cache
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp_MarkupCompile.lref
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\MainWindow.baml
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp.g.resources
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp.Properties.Resources.resources
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp.csproj.GenerateResource.cache
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp.exe
+C:\Users\Prometheous\source\repos\WPFwithCsharp\WPFwithCsharp\obj\Debug\WPFwithCsharp.pdb
